@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carlos I Medina 👋</h1>
+<h1 align="center">Hi, I'm Carlos I Medina </h1>
 <h3 align="center">Mechanical Engineering Student & Undergraduate Researcher | Materials & MATLAB</h3>
 
 - 💬 Ask me about **MATLAB and Materials Science**
